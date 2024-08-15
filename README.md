@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teja-pola&label=Profile%20views&color=0e75b6&style=flat" alt="teja-pola" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teja-pola" alt="teja-pola" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-3000" alt="atharva-3000" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/teja__pola" target="blank"><img src="https://img.shields.io/twitter/follow/teja__pola?logo=twitter&style=for-the-badge" alt="teja__pola" /></a> </p>
 
