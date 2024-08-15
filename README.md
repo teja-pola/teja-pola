@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DHARMA TEJA</h1>
-<h3 align="center">Read books instead of this!!</h3>
+<h3 align="center">NICE TO MEET YOU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teja-pola&label=Profile%20views&color=0e75b6&style=flat" alt="teja-pola" /> </p>
 
