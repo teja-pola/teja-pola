@@ -1,3 +1,5 @@
+<p align="left"> <img src="&color=0e75b6&style=flat" alt="corgito ergo sum" /> </p>
+
 <h1 align="center">Hi 👋, I'm DHARMA TEJA</h1>
 <h3 align="center">NICE TO MEET YOU</h3>
 
