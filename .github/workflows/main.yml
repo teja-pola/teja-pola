@@ -9,28 +9,30 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      # Generate the snake gif and svg
-      - uses: Platane/snk@v2
-        id: snake-gif
+      # Generate the snake
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
         with:
           github_user_name: teja-pola
+          outputs: svg
 
-      # Commit and push the changes
+      # Upload the generated snake to the repository
       - name: Commit and Push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Generated snake gif and svg"
-          branch: output
-          commit_user_name: "GitHub Action"
-          commit_user_email: "action@github.com"
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add -A
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
 
-      # Deploy to GitHub Pages (optional)
+      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: ./dist
+
