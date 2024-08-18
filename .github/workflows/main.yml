@@ -27,11 +27,12 @@ jobs:
 
       # Commit and push the changes
       - name: Commit and Push changes
-        uses: github-actions-x/commit@v2
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
           commit_message: "Generated snake gif and svg"
+          branch: output
+          commit_user_name: "GitHub Action"
+          commit_user_email: "action@github.com"
 
       # Deploy to GitHub Pages (if needed)
       - name: Deploy to GitHub Pages
@@ -39,4 +40,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
+
 
