@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TEJA-POLA&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="teja-pola" /></a> </p>
 
-<img align = "right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRuOG5vajJ5MWFtM2Q5cmN6Mm82bDZkdnAzNmFuczJleG80NnB2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp " height ="300" alt="" /> </p>
+<img align = "right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRuOG5vajJ5MWFtM2Q5cmN6Mm82bDZkdnAzNmFuczJleG80NnB2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp" height ="300" alt="" /> </p>
 <p align="left"> <a href="https://twitter.com/teja__pola" target="blank"><img src="https://img.shields.io/twitter/follow/teja__pola?logo=twitter&style=for-the-badge" alt="teja__pola" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs, Typescript, and much more.**
