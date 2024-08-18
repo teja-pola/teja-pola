@@ -28,7 +28,6 @@
 - ⚡ When I'm not coding- [**I do video editing and storytelling for content**](https://instagram.com/https://www.instagram.com/teja.techh/)
 
 
-<img src="https://raw.githubusercontent.com/teja-pola/teja-pola/output/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,4 +49,5 @@
 <p align="LEFT"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teja-pola&theme=dark&hide_border=false" alt="teja-pola" /></p><br>
 
 
+![snake gif](https://github.com/teja-pola/teja-pola/blob/output/github-contribution-grid-snake.svg)
 
