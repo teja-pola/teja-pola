@@ -11,19 +11,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository content
       - uses: actions/checkout@v3
 
-      # Generate the snake GIF and SVG
+      # Generate the snake gif and svg
       - uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: teja-pola
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      # Check the status of the build (for debugging purposes)
-      - run: git status
 
       # Commit and push the changes
       - name: Commit and Push changes
@@ -34,11 +28,9 @@ jobs:
           commit_user_name: "GitHub Action"
           commit_user_email: "action@github.com"
 
-      # Deploy to GitHub Pages (if needed)
+      # Deploy to GitHub Pages (optional)
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
-
-
