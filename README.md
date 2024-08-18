@@ -49,5 +49,5 @@
 <p align="LEFT"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teja-pola&theme=dark&hide_border=false" alt="teja-pola" /></p><br>
 
 
-![snake gif](https://github.com/teja-pola/teja-pola/blob/output/github-contribution-grid-snake.svg)
+
 
