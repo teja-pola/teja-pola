@@ -1,7 +1,7 @@
-<p align="center"> <img src="ces.png " alt="corgito ergo sum" height ="100%" Width = "100%"/> </p>
+<p align="center"> <img src="cogito.png" alt="corgito ergo sum" height ="100%" Width = "100%"/> </p>
 
 <h1 align="center">Hi 👋, I'm DHARMA TEJA </h1>
-<h3 align="center">FULL-STACK DEVELOPER & UI/UX DEIGNER</h3>
+<h3 align="center">DESIGNER & DEVELOPER</h3>
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=TEJA-POLA&icon=5&color1)](https://visitcount.itsvg.in)
  alt="teja-pola" /> </p>
@@ -10,8 +10,9 @@
 
 
 <p align="left"> <a href="https://twitter.com/teja__pola" target="blank"><img src="https://img.shields.io/twitter/follow/teja__pola?logo=twitter&style=for-the-badge" alt="teja__pola" /></a> </p>
-<img align = "right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRuOG5vajJ5MWFtM2Q5cmN6Mm82bDZkdnAzNmFuczJleG80NnB2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp" height ="300" alt="" /> </p>
-- 🌱 I’m currently learning **ReactJs, Typescript, and much more.**
+<img align = "right" src="github.png" height ="300" alt="" /> </p>
+
+- 🌱 I’m currently learning **ReactJs, Typescript, NextJs**
 
 - 👯 I’d love to collaborate for **HACKATHONS**
 
@@ -23,7 +24,7 @@
 
 - 📫 How to reach me **dteja24682gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ZnC1MGaqD6G02Gj20UdN6W1znEwYfyop/view?usp=drive_link)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/18SOO2u3DEUgIlECC_7RUw8Jd_miFk8go/view?usp=drive_link)
 
 - ⚡ When I'm not coding- [**I do video editing and storytelling for content**](https://instagram.com/https://www.instagram.com/teja.techh/)
 
@@ -43,10 +44,11 @@
 <h3 align="LET">SUPPORT:</h3>
 <p align="LEFT"><a href="https://www.buymeacoffee.com/tejapola"> <img align="CENTER" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tejapola" /></a></p>
 
-<p><img align="right" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="teja-pola" height = "260"/></p>
+
 <hr>
 <h3 align="LEFT">STATS:</h3>
-<p align="LEFT"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teja-pola&theme=dark&hide_border=false" alt="teja-pola" /></p><br>
+<p align="LEFT"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teja-pola&theme=dark&hide_border=false" alt="teja-pola"/></p>
+<br>
 
 
 
