@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **dteja24682gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ZnC1MGaqD6G02Gj20UdN6W1znEwYfyop/view?usp=drive_link)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/18SOO2u3DEUgIlECC_7RUw8Jd_miFk8go/view?usp=drive_link)
 
 - ⚡ When I'm not coding- [**I do video editing and storytelling for content**](https://instagram.com/https://www.instagram.com/teja.techh/)
 
