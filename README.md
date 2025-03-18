@@ -10,7 +10,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/teja__pola" target="blank"><img src="https://img.shields.io/twitter/follow/teja__pola?logo=twitter&style=for-the-badge" alt="teja__pola" /></a> </p>
-<img align = "right" src="github.png" height ="100" alt="" /> </p>
+<img align = "right" src="github.png" height ="200" alt="" /> </p>
 
 - 🌱 I’m currently learning **ReactJs, Typescript, NextJs**
 
