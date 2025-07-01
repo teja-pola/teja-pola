@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/teja__pola" target="blank"><img src="https://img.shields.io/twitter/follow/teja__pola?logo=twitter&style=for-the-badge" alt="teja__pola" /></a> </p>
 <img align = "right" src="github.png" height ="200" alt="" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, Typescript, NextJs**
+- 🌱 I’m currently learning **AI, WEB2, WEB3**
 
 - 👯 I’d love to collaborate for **HACKATHONS**
 
@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1VRd5ZVimJfhQCccWjNqkY2bNlVRqmAI3/view?usp=sharing)
 
-- ⚡ When I'm not coding- [**I do video editing and storytelling for content**](https://instagram.com/https://www.instagram.com/teja.techh/)
+- ⚡ When I'm not coding- [**I do video editing and storytelling for content**](https://www.instagram.com/teja.techh/)
 
 
 
