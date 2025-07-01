@@ -18,8 +18,6 @@
 
 - 🤝 I’m looking for help with **Web3**
 
-- 👨‍💻 All of my projects are available at [Github](github.com/teja-pola)
-
 - 💬 Ask me about **Web development and Web3**
 
 - 📫 How to reach me **dteja24682gmail.com**
